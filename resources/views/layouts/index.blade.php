@@ -21,11 +21,13 @@
     <!-- here we integrate the header -->
     @include('partials.header')
 
+    
     @yield('content')
 
+
+    <!-- here we integrate the footer -->
     @include('partials.footer')
     
-
 
 </body>
 </html>

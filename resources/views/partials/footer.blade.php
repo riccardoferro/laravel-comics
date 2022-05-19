@@ -59,11 +59,11 @@
 
                 <div class=" icons-footer d-flex">
                   <span id="followus"> FOLLOW US</span>
-                  <img src="images/footer-facebook.png" alt="img logo facebook">
-                  <img src="images/footer-twitter.png" alt="img logo twitter">
-                  <img src="images/footer-youtube.png" alt="img logo youtube">
-                  <img src="images/footer-pinterest.png" alt="img logo pinterest">
-                  <img src="images/footer-periscope.png" alt="img logo periscope">
+                  <img src="/images/footer-facebook.png" alt="img logo facebook">
+                  <img src="/images/footer-twitter.png" alt="img logo twitter">
+                  <img src="/images/footer-youtube.png" alt="img logo youtube">
+                  <img src="/images/footer-pinterest.png" alt="img logo pinterest">
+                  <img src="/images/footer-periscope.png" alt="img logo periscope">
 
                 </div>
             </div>

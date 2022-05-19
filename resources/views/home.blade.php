@@ -16,7 +16,7 @@
 
                     @foreach($comics as $item)
                             <div class="card-rf">
-                                <a href="#">
+                                <a href="/detail/">
                                     <img src="{{ $item[ 'thumb' ] }}" alt="{{ $item[ 'series'] }}" >
                                     <div>{{ $item[ 'series' ] }}</div>
                                 </a>
