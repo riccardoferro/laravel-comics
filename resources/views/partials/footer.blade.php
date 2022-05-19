@@ -68,6 +68,4 @@
                 </div>
             </div>
         </div>
-        <!-- <div class="bottom-footer d-flex">
-        </div> -->
-    </footer>
+</footer>
